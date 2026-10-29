@@ -1,10 +1,23 @@
-# Contacts-App
+# Mobile Contacts App
 
 An Android contact manager written in Java, with contacts stored in a local SQLite database.
+
+<p align="center">
+  <img src="docs/demo.gif" width="300" alt="Demo: add a contact, search, view details, edit and delete">
+</p>
 
 | Contact list | Live search | Contact details |
 |---|---|---|
 | <img src="docs/screenshots/list.png" width="240" alt="Contact list"> | <img src="docs/screenshots/search.png" width="240" alt="Search filtering the list"> | <img src="docs/screenshots/detail.png" width="240" alt="Detail screen with Edit and Delete"> |
+
+## Try it
+
+- **On an Android phone:** download `ContactsApp.apk` from the
+  [latest release](https://github.com/SanellaPalangic2/Mobile-Contacts-App/releases/latest),
+  open it, and allow installs from your browser when Android asks. Requires Android 8.0 or newer.
+- **In a browser, no phone needed:** upload the same APK to [Appetize.io](https://appetize.io)
+  to get a shareable link that runs the app in an emulator in the browser.
+- **From source:** see [Build and run](#build-and-run).
 
 ## Features
 
