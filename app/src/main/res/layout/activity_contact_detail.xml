@@ -24,7 +24,7 @@
         android:id="@+id/buttonEdit"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/design_default_color_secondary"
+        android:backgroundTint="@color/design_default_color_secondary"
         android:text="Edit" />
 
     <Button
@@ -32,6 +32,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
-        android:background="@color/design_default_color_error"
+        android:backgroundTint="@color/design_default_color_error"
         android:text="Delete" />
 </LinearLayout>
